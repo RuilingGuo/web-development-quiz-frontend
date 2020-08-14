@@ -1,6 +1,7 @@
 import React from 'react'
 import '../styles/App.css'
 import Product from './Product'
+import '../styles/StoreHome.css'
 
 
 class StoreHome extends React.Component {
